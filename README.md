@@ -41,7 +41,8 @@ Participation is free, and we welcome statistics researchers and graduate studen
 | **11:00 - 11:45** | **Talk 1** <br> *Speaker & Title TBC* |
 | **11:45 - 12:30** | **Talk 2** <br> *Speaker & Title TBC* |
 | **12:30 - 14:00** | **Lunch Break** <br> Lunch. |
-| **14:00 - 15:30** | **Session: Talks 3 & 4** <br> *Speakers & Titles TBC* |
+| **14:00 - 14:45** | **Talk 3** <br> *Speaker & Title TBC* |
+| **14:45 - 15:30** | **Talk 4** <br> *Speaker & Title TBC* |
 | **15:30 - 16:00** | **Coffee Break & Refreshments** |
 | **16:00 - 17:30** | **Discussion & Breakout Groups** <br> Interactive mini-groups focusing on open challenges and motivational problems led by the speakers. |
 | **17:30** | **Closing Remarks** <br> End of the meeting. |
@@ -50,7 +51,7 @@ Participation is free, and we welcome statistics researchers and graduate studen
 
 ## Joint Research Group Committee
 
-* **Dr. Nicolas Hernandez** (Lead Organiser) – Queen Mary University of London (QMUL)
+* **Dr. Nicolas Hernandez** – Queen Mary University of London
 * **Prof. Karthik Bharath** – University of Nottingham
 * **Dr. Haiyan Liu** – University of Leeds
 
