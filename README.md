@@ -66,7 +66,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 <!-- SECCIÓN DEL MAPA INTERACTIVO REAL -->
 #### 📍 Location & Venue
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1241.2131972551694!2d-0.0409895!3d51.5237837!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761d2f4ee8288f%3A0x6b772421f57f6424!2sSchool%20of%20Mathematical%20Sciences!5e0!3m2!1ses!2scl!4v1721237000000!5m2!1ses!2scl" width="100%" height="450" style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.427773229715!2d-0.04354228422941362!3d51.52371827963784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761d2f4edd3ddd%3A0xc0cc9bdec7320519!2sSchool%20of%20Mathematical%20Sciences!5e0!3m2!1ses!2scl!4v1721238000000!5m2!1ses!2scl" width="100%" height="450" style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://www.google.com/maps/place/School+of+Mathematical+Sciences/@51.5255164,-0.0352221,14z/data=!4m6!3m5!1s0x48761d2f3123ff19:0x1a14b140e802c875!8m2!3d51.5225117!4d-0.0431385!16s%2Fg%2F1hc10r3hz?entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D" width="100%" height="450" style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
