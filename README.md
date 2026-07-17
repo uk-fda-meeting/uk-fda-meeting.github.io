@@ -1,11 +1,18 @@
 <!-- | <img src="LMS.png" height="50"> | <img src="QMUL.png" height="50"> | <img src="LEEDS.png" height="50"> | <img src="NOTT.png" height="50"> |
 | :---: | :---: | :---: | :---: | -->
 
-<p align="center">
+<p align="center" style="background: white; padding: 20px 10px; border-radius: 8px;">
   <img src="LMS.png" alt="LMS" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="QMUL.png" alt="QMUL" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="LEEDS.png" alt="Leeds" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="NOTT.png" alt="Nottingham" height="55">
+</p>
+
+<p align="center" style="background: white; padding: 20px 10px; border-radius: 8px;">
+  <img src="LMS.png" height="48" style="vertical-align: middle; margin: 0 15px;">
+  <img src="QMUL.png" height="48" style="vertical-align: middle; margin: 0 15px;">
+  <img src="LEEDS.png" height="42" style="vertical-align: middle; margin: 0 15px;">
+  <img src="NOTT.png" height="52" style="vertical-align: middle; margin: 0 25px;">
 </p>
 
 ***
