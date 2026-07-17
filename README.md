@@ -61,7 +61,7 @@ Participation is free, and we welcome statistics researchers and graduate studen
 
 ## Joint Research Group Committee
 
-* **Dr. Nicolas Hernandez** (Lead Organiser) – Queen Mary University of London (QMUL)
+* **Dr. Nicolas Hernandez** – Queen Mary University of London (QMUL)
 * **Prof. Karthik Bharath** – University of Nottingham
 * **Dr. Haiyan Liu** – University of Leeds
 
