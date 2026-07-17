@@ -15,6 +15,19 @@
   <img src="NOTT.png" height="52" style="vertical-align: middle; margin: 0 25px;">
 </p>
 
+<p align="center" style="background: white; padding: 25px 10px; border-radius: 8px; margin-bottom: 20px;">
+  <!-- Fila 1: Universidades Coorganizadoras -->
+  <img src="qmul.png" height="45" style="vertical-align: middle; margin: 0 20px;">
+  <img src="leeds.png" height="40" style="vertical-align: middle; margin: 0 20px;">
+  <img src="nottingham.png" height="50" style="vertical-align: middle; margin: 0 20px;">
+  
+  <br><br style="line-height: 30px;">
+  
+  <!-- Fila 2: Entidad Financiadora -->
+  <span style="display: block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #888888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Supported by</span>
+  <img src="lms.png" height="45" style="vertical-align: middle;">
+</p>
+
 ***
 
 Supported by the **London Mathematical Society (LMS) Scheme 3 grant**, our network aims to create a permanent, collaborative space for regular interaction, discussion, and long-term joint research within the UK’s Functional Data Analysis community.
