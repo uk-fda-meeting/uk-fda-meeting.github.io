@@ -70,15 +70,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 
 <!--<iframe src="https://www.google.com/maps/place/School+of+Mathematical+Sciences/@51.5255164,-0.0352221,14z/data=!4m6!3m5!1s0x48761d2f3123ff19:0x1a14b140e802c875!8m2!3d51.5225117!4d-0.0431385!16s%2Fg%2F1hc10r3hz?entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D" width="100%" height="450" style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
-<p align="center" style="margin: 30px 0;">
-  <a href="TU_ENLACE_DE_MICROSOFT_FORMS" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
-    📝 Register Here to Reserve Your Seat
-  </a>
-</p>
 
-<p align="center" style="font-size: 11px; color: #888888; margin-top: 15px;">
-  🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.
-</p>
 
 #### Schedule
 
