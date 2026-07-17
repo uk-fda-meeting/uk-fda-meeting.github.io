@@ -100,7 +100,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
   </a>
 </p> -->
 
-### Registration
+#### Registration
 Participation is free, and we welcome statistics researchers and graduate students interested in FDA. All refreshments, coffee breaks, and lunch will be provided on-site.
 
 <p align="center" style="margin: 30px 0;">
