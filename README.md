@@ -1,7 +1,23 @@
-Supported by the **London Mathematical Society (LMS) Scheme 3 grant**, our network aims to create a permanent, collaborative space for regular interaction, discussion, and long-term joint research within the UK’s Functional Data Analysis community.
+<p align="center">
+  <img src="LMS.png" alt="LMS" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="QMUL.png" alt="QMUL" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="LEEDS.png" alt="Leeds" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="NOTT.png" alt="Nottingham" height="60">
+</p>
 
-The group brings together mathematical, theoretical, and applied statisticians from across the country to form a stronger, more connected, and collaborative research network.
+***
+
+Supported by the **London Mathematical Society (LMS) Scheme 3 grant**, our network aims to create a permanent, collaborative space for regular interaction, discussion, and long-term joint research within the UK’s Functional Data Analysis community[cite: 2].
+
+The group brings together mathematical, theoretical, and applied statisticians from across the country to form a stronger, more connected, and collaborative research network[cite: 2].
+
 ---
+
+## 1st UK Functional Data Analysis Network Meeting
+
+<p align="center">
+  <img src="evento.png" alt="1st UK FDA Meeting Banner" style="width:100%; max-height:250px; object-fit:cover; border-radius:6px;">
+</p>
 
 ## Network Events
 
