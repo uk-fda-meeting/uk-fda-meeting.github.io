@@ -69,7 +69,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 <div align="center" style="margin: 20px 0;">
   <!-- Ventana real de Google Maps con Zoom y movimiento habilitados -->
   <iframe 
-    src="https://maps.app.goo.gl/AAj6MSduvwaYmQDg6" 
+    src="https://www.google.com/maps/place/School+of+Mathematical+Sciences/@51.5255164,-0.0352221,14z/data=!4m6!3m5!1s0x48761d2f3123ff19:0x1a14b140e802c875!8m2!3d51.5225117!4d-0.0431385!16s%2Fg%2F1hc10r3hz?entry=tts&g_ep=EgoyMDI2MDcxNS4wIPu8ASoASAFQAw%3D%3D&skid=710eda57-952b-469c-bf79-06da375b58f2" 
     width="100%" 
     height="400" 
     style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" 
