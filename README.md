@@ -60,7 +60,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 #### Event Details
 * **Date:** 17th or 18th of September 2026 (TBC)
 * **Time:** 10:30 AM – 17:30 PM
-* **Location:** Queen Mary University of London (QMUL) – Room TBC
+* **Location:** QMUL | Mile End Campus | London | – Room TBC
 * **Format:** In person
 
 
@@ -131,7 +131,7 @@ Participation is free, and we welcome statistics researchers and graduate studen
 
 ## Joint Research Group Committee
 
-* **Dr. Nicolas Hernandez** – Queen Mary University of London (QMUL)
+* **Dr. Nicolas Hernandez** – Queen Mary University of London
 * **Prof. Karthik Bharath** – University of Nottingham
 * **Dr. Haiyan Liu** – University of Leeds
 
