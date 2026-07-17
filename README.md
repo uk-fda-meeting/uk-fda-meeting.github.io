@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="LMS.png" alt="LMS" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="QMUL.png" alt="QMUL" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="LEEDS.png" alt="Leeds" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="NOTT.png" alt="Nottingham" height="60">
-</p>
+| <img src="lms.png" height="40"> | <img src="qmul.png" height="40"> | <img src="leeds.png" height="40"> | <img src="nottingham.png" height="40"> |
+| :---: | :---: | :---: | :---: |
 
 ***
 
@@ -16,7 +12,17 @@ The group brings together mathematical, theoretical, and applied statisticians f
 ## 1st UK Functional Data Analysis Network Meeting
 
 <p align="center">
-  <img src="evento.png" alt="1st UK FDA Meeting Banner" style="width:100%; max-height:250px; object-fit:cover; border-radius:6px;">
+  <!-- BANNER CONCEPTUAL DE FDA GENERADO POR CÓDIGO -->
+  <svg viewBox="0 0 800 200" width="100%" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <text x="30" y="70" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="bold" letter-spacing="1">1st UK FDA Network Meeting</text>
+    <text x="30" y="105" fill="#00b4d8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="500">Queen Mary University of London</text>
+    <text x="30" y="130" fill="#90e0ef" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-style="italic">September 2026</text>
+    <!-- Curvas de datos funcionales de fondo -->
+    <path d="M 350 200 Q 450 20, 550 150 T 750 50" fill="none" stroke="rgba(0, 180, 216, 0.4)" stroke-width="4" />
+    <path d="M 380 200 Q 480 50, 580 110 T 780 90" fill="none" stroke="rgba(144, 224, 239, 0.3)" stroke-width="3" />
+    <path d="M 320 200 Q 420 10, 520 180 T 720 30" fill="none" stroke="rgba(72, 202, 228, 0.2)" stroke-width="2" stroke-dasharray="5 5" />
+    <path d="M 400 200 Q 500 80, 600 130 T 800 40" fill="none" stroke="rgba(0, 119, 182, 0.5)" stroke-width="3" />
+  </svg>
 </p>
 
 ## Network Events
