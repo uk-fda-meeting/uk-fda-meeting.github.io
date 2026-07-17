@@ -1,5 +1,5 @@
 <!-- | <img src="LMS.png" height="50"> | <img src="QMUL.png" height="50"> | <img src="LEEDS.png" height="50"> | <img src="NOTT.png" height="50"> |
-| :---: | :---: | :---: | :---: | -->
+| :---: | :---: | :---: | :---: | 
 
 <p align="center" style="background: white; padding: 20px 10px; border-radius: 8px;">
   <img src="LMS.png" alt="LMS" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,13 +13,13 @@
   <img src="QMUL.png" height="48" style="vertical-align: middle; margin: 0 15px;">
   <img src="LEEDS.png" height="42" style="vertical-align: middle; margin: 0 15px;">
   <img src="NOTT.png" height="52" style="vertical-align: middle; margin: 0 25px;">
-</p>
+</p> -->
 
 <p align="center" style="background: white; padding: 25px 10px; border-radius: 8px; margin-bottom: 20px;">
   <!-- Fila 1: Universidades Coorganizadoras -->
   <img src="QMUL.png" height="65" style="vertical-align: middle; margin: 0 20px;">
   <img src="LEEDS.png" height="60" style="vertical-align: middle; margin: 0 20px;">
-  <img src="NOTT.png" height="70" style="vertical-align: middle; margin: 0 20px;">
+  <img src="NOTT.png" height="72" style="vertical-align: middle; margin: 0 20px;">
   
   <br><br style="line-height: 30px;">
   
