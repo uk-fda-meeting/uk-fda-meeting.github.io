@@ -18,8 +18,8 @@
 <p align="center" style="background: white; padding: 25px 10px; border-radius: 8px; margin-bottom: 20px;">
   <!-- Fila 1: Universidades Coorganizadoras -->
   <img src="QMUL.png" height="65" style="vertical-align: middle; margin: 0 20px;">
-  <img src="LEEDS.png" height="60" style="vertical-align: middle; margin: 0 20px;">
-  <img src="NOTT.png" height="72" style="vertical-align: middle; margin: 0 20px;">
+  <img src="LEEDS.png" height="65" style="vertical-align: middle; margin: 0 20px;">
+  <img src="NOTT.png" height="75" style="vertical-align: middle; margin: 0 20px;">
   
   <br><br style="line-height: 30px;">
   
