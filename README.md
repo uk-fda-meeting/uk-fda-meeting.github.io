@@ -126,51 +126,6 @@ Participation is free, and we welcome statistics researchers and graduate studen
   <p style="font-size: 11px; color: #888888; text-align: center; margin-top: 15px;">🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.</p>
 </div>
 
-<!-- <div style="background: #ffffff; padding: 30px; border-radius: 8px; border: 1px solid #e1e4e8; max-width: 650px; margin: 20px auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #24292e; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-  
-  <h3 style="margin-top: 0; color: #0f2027; font-size: 24px; border-bottom: 1px solid #eaecef; padding-bottom: 10px;">Registration Form</h3>
-  <p style="color: #586069; font-size: 14px; margin-bottom: 25px;">Please provide the following information to reserve your place.</p>
-
- <form action="https://formspree.io/f/xykrelzj" method="POST">
-    
-    <!-- Full Name -->
-    <div style="margin-bottom: 20px;">
-      <label style="display: block; font-weight: 600; margin-bottom: 6px; font-size: 14px;">Full Name *</label>
-      <input type="text" name="name" required style="width: 100%; padding: 10px; border: 1px solid #d1d5da; border-radius: 6px; background-color: #ffffff; font-size: 14px; box-sizing: border-box;">
-    </div>
-
-    <!-- Email -->
-    <div style="margin-bottom: 20px;">
-      <label style="display: block; font-weight: 600; margin-bottom: 6px; font-size: 14px;">Email Address *</label>
-      <input type="email" name="email" required style="width: 100%; padding: 10px; border: 1px solid #d1d5da; border-radius: 6px; background-color: #ffffff; font-size: 14px; box-sizing: border-box;">
-    </div>
-
-    <!-- Institution -->
-    <div style="margin-bottom: 20px;">
-      <label style="display: block; font-weight: 600; margin-bottom: 6px; font-size: 14px;">Institution / Affiliation *</label>
-      <input type="text" name="institution" required style="width: 100%; padding: 10px; border: 1px solid #d1d5da; border-radius: 6px; background-color: #ffffff; font-size: 14px; box-sizing: border-box;">
-    </div>
-
-    <!-- Dietary Requirements -->
-    <div style="margin-bottom: 25px;">
-      <label style="display: block; font-weight: 600; margin-bottom: 6px; font-size: 14px;">Dietary Requirements *</label>
-      <select name="dietary" required style="width: 100%; padding: 10px; border: 1px solid #d1d5da; border-radius: 6px; background-color: #ffffff; font-size: 14px; box-sizing: border-box; height: 40px;">
-        <option value="None">None</option>
-        <option value="Vegetarian">Vegetarian</option>
-        <option value="Vegan">Vegan</option>
-      </select>
-    </div>
-
-    <!-- Submit Button -->
-    <button type="submit" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 12px 24px; border: none; border-radius: 6px; font-size: 14px; font-weight: bold; cursor: pointer; width: 100%;">
-      Submit Registration
-    </button>
-
-  </form>
-</div>
--->
-
-
 ## Joint Research Group Committee
 
 * **Dr. Nicolas Hernandez** – Queen Mary University of London
