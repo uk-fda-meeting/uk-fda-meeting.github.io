@@ -2,10 +2,10 @@
 | :---: | :---: | :---: | :---: | -->
 
 Recordar pedirle el título provisional a Yi Yu antes de agosto  <p align="center">
-  <img src="lms.png" alt="LMS" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="qmul.png" alt="QMUL" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="leeds.png" alt="Leeds" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="nottingham.png" alt="Nottingham" height="55">
+  <img src="LMS.png" alt="LMS" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="QMUL.png" alt="QMUL" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="LEEDS.png" alt="Leeds" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="NOTT.png" alt="Nottingham" height="55">
 </p>
 
 ***
