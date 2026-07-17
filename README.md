@@ -66,7 +66,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 <!-- SECCIÓN DEL MAPA INTERACTIVO REAL -->
 ### 📍 Location & Venue
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.427771746274!2d-0.043321523378531!3d51.52371827181657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!2f46.1!3m3!1m2!1s0x48761d2f4edd3ddd%3A0xc0cc9bdec7320519!2sSchool%20of%20Mathematical%20Sciences%20(QMUL)!5e0!3m2!1ses!2scl!4v1721235500000!5m2!1ses!2scl" width="100%" height="450" style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://maps.app.goo.gl/JYAG15V8Gq39F3Ez5" width="100%" height="450" style="border:1px solid #e1e4e8; border-radius: 8px; max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <p align="center" style="margin: 30px 0;">
   <a href="TU_ENLACE_DE_MICROSOFT_FORMS" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
