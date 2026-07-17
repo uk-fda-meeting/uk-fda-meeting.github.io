@@ -1,33 +1,24 @@
-name: Registration Email Notifications
+name: Registration Auto-Response
 
 on:
   issues:
     types: [opened]
 
 jobs:
-  send-emails:
+  auto-respond:
     if: contains(github.event.issue.labels.*.name, 'registration')
     runs-on: ubuntu-latest
     steps:
-      - name: Send Confirmation Emails
-        uses: dawidd6/action-send-mail@v3
+      - name: Create Welcome Comment
+        uses: peter-evans/create-or-update-comment@v3
         with:
-          # Configuración del servidor de correo seguro de GitHub
-          connection_url: ${{secrets.MAIL_CONNECTION_URL}}
-          
-          # 1. CORREO PARA TI (ORGANIZADOR)
-          to: n.hernandez@qmul.ac.uk
-          from: "UK FDA Network <registration@uk-fda-meeting.github.io>"
-          subject: "New Registration: ${{ github.event.issue.title }}"
-          html_body: |
-            <h2>New Participant Registered</h2>
-            <p>A new registration has been submitted for the 1st UK FDA Network Meeting.</p>
-            <p>You can review the full details and manage the participant list here:</p>
-            <a href="${{ github.event.issue.html_url }}">${{ github.event.issue.html_url }}</a>
-            <br><br>
-            <hr>
-            <p><em>UK Functional Data Analysis Joint Research Group Committee</em></p>
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            Hi there,
 
-          # 2. CORREO PARA EL PARTICIPANTE (CONFIRMACIÓN)
-          # GitHub toma automáticamente el email de la persona que abrió la Issue si está verificado,
-          # o puedes responder directamente sobre la misma Issue escribiendo un comentario que le llegará a su mail.
+            Thank you for registering for the **1st UK Functional Data Analysis Network Meeting** at Queen Mary University of London!
+
+            This automated message confirms that your registration form has been successfully received and your details have been logged. 
+            
+            Best regards,
+            **UK Functional Data Analysis Joint Research Group Committee**
