@@ -1,12 +1,12 @@
-| <img src="LMS.png" height="50"> | <img src="QMUL.png" height="50"> | <img src="LEEDS.png" height="50"> | <img src="NOTT.png" height="50"> |
-| :---: | :---: | :---: | :---: |
+<!-- | <img src="LMS.png" height="50"> | <img src="QMUL.png" height="50"> | <img src="LEEDS.png" height="50"> | <img src="NOTT.png" height="50"> |
+| :---: | :---: | :---: | :---: | -->
 
-<!-- Recordar pedirle el título provisional a Yi Yu antes de agosto  <p align="center">
-  <img src="lms.png" alt="LMS" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="qmul.png" alt="QMUL" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="leeds.png" alt="Leeds" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="nottingham.png" alt="Nottingham" height="60">
-</p> -->
+Recordar pedirle el título provisional a Yi Yu antes de agosto  <p align="center">
+  <img src="lms.png" alt="LMS" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="qmul.png" alt="QMUL" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="leeds.png" alt="Leeds" height="55"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="nottingham.png" alt="Nottingham" height="55">
+</p>
 
 ***
 
