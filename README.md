@@ -48,12 +48,12 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 
 | Time | Event / Session |
 | :--- | :--- |
-| **10:30 - 11:00** | **Intro & Welcome** <br> Opening remarks and coffee setup. |
-| **11:00 - 11:45** | **Talk 1** <br> *Speaker & Title TBC* |
-| **11:45 - 12:30** | **Talk 2** <br> *Speaker & Title TBC* |
+| **10:30 - 11:00** | **Arrival & Welcome** <br> |
+| **11:00 - 11:45** | **Invited Talk 1** <br> *Speaker & Title TBC* |
+| **11:45 - 12:30** | **Invited Talk 2** <br> *Speaker & Title TBC* |
 | **12:30 - 14:00** | **Lunch Break** <br> Complimentary lunch provided on-site. |
-| **14:00 - 14:45** | **Talk 3** <br> *Speaker & Title TBC* |
-| **14:45 - 15:30** | **Talk 4** <br> *Speaker & Title TBC* |
+| **14:00 - 14:45** | **Invited Talk 3** <br> *Speaker & Title TBC* |
+| **14:45 - 15:30** | **Invited Talk 4** <br> *Speaker & Title TBC* |
 | **15:30 - 16:00** | **Coffee Break & Refreshments** |
 | **16:00 - 17:30** | **Discussion & Breakout Groups** <br> Interactive mini-groups focusing on open challenges and motivational problems led by the speakers. |
 | **17:30** | **Closing Remarks** <br> End of the meeting. |
