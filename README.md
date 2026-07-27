@@ -58,9 +58,9 @@ The group brings together mathematical, theoretical, and applied statisticians f
 Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)**. It features a dynamic format combining traditional research talks with intensive, interactive working groups designed to tackle open challenges and spark new collaborative projects.
 
 #### Event Details
-* **Date:** 17th or 18th of September 2026 (TBC)
+* **Date:** 18th of September 2026
 * **Time:** 10:30 AM – 17:30 PM
-* **Location:** QMUL - Mile End Campus, London – Room TBC
+* **Location:** QMUL - Mile End Campus, London – Mathematics Lecture Room
 * **Format:** In person
 
 <!-- SECCIÓN DEL MAPA INTERACTIVO REAL -->
@@ -79,11 +79,11 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 | Time | Event / Session |
 | :--- | :--- |
 | **10:30 - 11:00** | **Arrival & Welcome** <br> |
-| **11:00 - 11:45** | **Invited Talk 1** <br> *Speaker & Title TBC* |
-| **11:45 - 12:30** | **Invited Talk 2** <br> *Speaker & Title TBC* |
+| **11:00 - 11:45** | **Invited Talk 1** <br> *[Dr. Eftychia Solea](https://www.seresearch.qmul.ac.uk/cpsd/people/esolea/) & Title TBC* |
+| **11:45 - 12:30** | **Invited Talk 2** <br> *[Dr. Davide Pigoli](https://www.kcl.ac.uk/people/davide-pigoli) & Title TBC* |
 | **12:30 - 14:00** | **Lunch Break** <br> Complimentary lunch provided on-site. |
 | **14:00 - 14:45** | **Invited Talk 3** <br> *Speaker & Title TBC* |
-| **14:45 - 15:30** | **Invited Talk 4** <br> *Speaker & Title TBC* |
+| **14:45 - 15:30** | **Invited Talk 4** <br> *[Prof. Ian Jermyn](https://www.durham.ac.uk/staff/i-h-jermyn/) & Title TBC* |
 | **15:30 - 16:00** | **Coffee Break & Refreshments** |
 | **16:00 - 17:30** | **Discussion & Breakout Groups** <br> Interactive mini-groups focusing on open challenges and motivational problems led by the speakers. |
 | **17:30** | **Closing Remarks** <br> End of the meeting. |
