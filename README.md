@@ -82,7 +82,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 | **11:00 - 11:45** | **Invited Talk 1** <br> *[Dr. Eftychia Solea](https://www.seresearch.qmul.ac.uk/cpsd/people/esolea/) - Graphical Models for Functional Data* |
 | **11:45 - 12:30** | **Invited Talk 2** <br> *[Dr. Davide Pigoli](https://www.kcl.ac.uk/people/davide-pigoli) - Object-oriented FDA* |
 | **12:30 - 14:00** | **Lunch Break** <br> Complimentary lunch provided on-site. |
-| **14:00 - 14:45** | **Invited Talk 3** <br> *[Prof. Xiaojun Zeng](https://research.manchester.ac.uk/en/persons/x.zeng/) - ML and FDA* |
+| **14:00 - 14:45** | **Invited Talk 3** <br> *[Prof. Xiaojun Zeng](https://research.manchester.ac.uk/en/persons/x.zeng/) - "A Machine Learning Theory and Approach to FDA"* |
 | **14:45 - 15:30** | **Invited Talk 4** <br> *[Prof. Ian Jermyn](https://www.durham.ac.uk/staff/i-h-jermyn/) & Title TBC* |
 | **15:30 - 16:00** | **Coffee Break & Refreshments** |
 | **16:00 - 17:30** | **Discussion & Breakout Groups** <br> Interactive mini-groups focusing on open challenges and motivational problems led by the speakers. |
