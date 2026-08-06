@@ -79,7 +79,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 | Time | Event / Session |
 | :--- | :--- |
 | **10:30 - 11:00** | **Arrival & Welcome** <br> |
-| **11:00 - 11:45** | **Invited Talk 1** <br> *[Dr. Eftychia Soleab (QMUL)](https://www.seresearch.qmul.ac.uk/cpsd/people/esolea/) - "Robust Inverse Regression for Multivariate Elliptical Functional Data"* |
+| **11:00 - 11:45** | **Invited Talk 1** <br> *[Dr. Eftychia Solea (QMUL)](https://www.seresearch.qmul.ac.uk/cpsd/people/esolea/) - "TBC"* |
 | **11:45 - 12:30** | **Invited Talk 2** <br> *[Dr. Davide Pigoli (KCL)](https://www.kcl.ac.uk/people/davide-pigoli) - Object-oriented FDA* |
 | **12:30 - 14:00** | **Lunch Break** <br> Complimentary lunch provided on-site. |
 | **14:00 - 14:45** | **Invited Talk 3** <br> *[Prof. Xiaojun Zeng (Uni. of Manchester)](https://research.manchester.ac.uk/en/persons/x.zeng/) - "A Machine Learning Theory and Approach to FDA"* |
