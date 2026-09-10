@@ -60,7 +60,7 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
 #### Event Details
 * **Date:** Thursday 17th of September 2026
 * **Time:** 10:30 AM – 17:30 PM
-* **Location:** QMUL - Mile End Campus, London – ENG 209
+* **Location:** QMUL - Mile End Campus, London – Room: MB-503
 * **Format:** In person
 
 <!-- SECCIÓN DEL MAPA INTERACTIVO REAL -->
