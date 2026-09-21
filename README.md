@@ -96,20 +96,20 @@ Our inaugural meeting will be hosted at **Queen Mary University of London (QMUL)
   </a>
 </p> -->
 
-#### Registration
-Participation is free, and we welcome statistics researchers and graduate students interested in FDA. All refreshments, coffee breaks, and lunch will be provided on-site.
+#### Registration is now closed
 
+<!--<p Participation is free, and we welcome statistics researchers and graduate students interested in FDA. All refreshments, coffee breaks, and lunch will be provided on-site.
 <p align="center" style="margin: 30px 0;">
   <!-- BOTÓN AZUL -->
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=kfCdVhOw40CG7r2cueJYFJ5rKHnL3edJvjeyucEIyaZUQjA2RU9HS1E4VUk4QVZFVDBDRzlPMkU1US4u" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
+  <!--<p <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=kfCdVhOw40CG7r2cueJYFJ5rKHnL3edJvjeyucEIyaZUQjA2RU9HS1E4VUk4QVZFVDBDRzlPMkU1US4u" target="_blank" style="background: linear-gradient(135deg, #203a43, #2c5364); color: white; padding: 16px 40px; border-radius: 6px; font-size: 16px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block;">
     📝 Register Here to Reserve Your Seat
   </a>
-</p>
+</p> </p> -->
 
 <!-- LETRA CHICA -->
-<p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #888888; margin-top: 15px;">
+<!--<p <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #888888; margin-top: 15px;">
   🔒 Secured by Queen Mary University of London Microsoft Suite. Automatic receipts will be issued.
-</p>
+</p> </p> -->
 
 ## Joint Research Group Committee
 
